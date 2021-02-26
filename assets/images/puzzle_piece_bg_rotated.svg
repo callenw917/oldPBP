@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300.5965mm"
+   height="186.86104mm"
+   viewBox="0 0 300.5965 186.86104"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="puzzle_piece_bg_rotated.svg"
+   inkscape:export-filename="C:\Users\Callen\Desktop\Tiny Pieces- BG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.17401456"
+     inkscape:cx="1094.395"
+     inkscape:cy="308.75406"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:pagecheckerboard="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-708.44191,368.90749)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d1c8b7;stroke-width:2.71939135;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 709.80161,-275.47409 c 0,12.4554 10.09769,22.5523 22.553,22.5522 8.2187,0 15.03739,-6.6969 19.75079,-11.673 3.3388,-3.5248 14.5657,0 14.5657,0 v 69.78284 c 0.1518,6.2414 5.08,11.1359 11.2373,11.4059 h 69.9513 c 0,0 3.525,-11.2268 0,-14.5656 -4.976,-4.7134 -11.6728,-11.5321 -11.6728,-19.7509 -2e-4,-12.4553 10.0967,-22.5527 22.552,-22.5529 12.4558,-2e-4 22.5532,10.0972 22.553,22.5529 0,8.5548 -6.7888,14.6411 -12.5072,20.1813 -3.384,3.2786 0,14.1352 0,14.1352 h 70.4214 c 6.6311,-0.1267 11.6032,-3.3771 11.6032,-11.1083 v -70.91704 c 0,0 10.8567,-3.3841 14.1352,0 5.5402,5.7184 11.6265,12.5032 20.1812,12.5072 12.4558,2e-4 22.5531,-10.0973 22.553,-22.553 -3e-4,-12.4554 -10.0975,-22.5523 -22.553,-22.5521 -8.2187,0 -15.0374,6.6968 -19.7508,11.673 -3.3388,3.5249 -14.5656,0 -14.5656,0 v -69.7534 c 0,-7.3155 -5.2185,-11.5621 -11.1568,-11.4354 h -70.0319 c 0,0 -3.525,11.2269 0,14.5657 4.976,4.7134 11.6729,11.532 11.6729,19.7508 2e-4,12.4554 -10.0968,22.5527 -22.5521,22.553 -12.4558,10e-5 -22.5531,-10.0973 -22.553,-22.553 0,-8.5547 6.7888,-14.6411 12.5073,-20.1813 3.3841,-3.2785 0,-14.1352 0,-14.1352 h -70.3409 c -6.9868,0.079 -11.5384,5.0588 -11.6837,11.4354 v 70.59 c 0,0 -10.8567,3.3841 -14.1352,0 -5.5402,-5.7184 -11.62659,-12.5032 -20.18129,-12.5072 -12.45581,-2e-4 -22.55311,10.0972 -22.553,22.5529 z"
+       id="rect4535-4-66-44-2-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
